@@ -71,7 +71,7 @@
               "retries": 3,
               "command": [
                   "CMD-SHELL",
-          	  "exit 1"
+          	  "exit 0"
               ],
               "timeout": 5,
               "interval": 30,
